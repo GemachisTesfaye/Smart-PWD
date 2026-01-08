@@ -6,7 +6,7 @@ A premium, high-entropy cryptographic password generator built with a privacy-fi
 
 
 
-##  🔗[Live Demo Link](https://urjiiko1.github.io/Smart-PWD/) 
+##  🔗[Live Demo Link](https://GemachisTesfaye.github.io/Smart-PWD/) 
 
 ---
 
@@ -84,5 +84,6 @@ git push origin feature/AmazingFeature
     <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
   </a>
 </p>
+
 
 
